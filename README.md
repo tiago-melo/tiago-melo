@@ -1,4 +1,5 @@
-### olá pessoal 👋
+# ...............................................................................![](photo.jpg) 
+### I'm Tiago Melo 👋
 
 Sou um profissional de TI, graduado em Redes de Computadores pela UNINASSAU.   
 Atuo na área há mais de 9 anos e ao longo dessa jornada, conheci pessoas incríveis e adquiri bastante experiências e habilidades.  
@@ -27,6 +28,7 @@ Atualmente estou em transição de carreira para área de Cloud, onde posso dest
 * Bootcamp Adminstrador Linux | IGTI 
 * Preparatório para Certificação Linux LPIC-1 | Atualizado V5 | Udemy 
 * Preparatório Certificação Google Cloud Associate Engineer | Udemy 
+*****
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=tiago-melo)
 
