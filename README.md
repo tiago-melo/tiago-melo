@@ -1,18 +1,21 @@
-# ...............................................................................![](photo.jpg) 
-## Olá! eu sou o Tiago Melo 👋
+## Olá! eu sou o Tiago Melo, sou entusiasta DevOps. 👋
 
-Um pouco sobre mim!
+Aqui você vai encontrar meus projetos de estudos e como estou desenvolvendo minhas stacks:
 
-Sou um entusiasta DevOps!
-
-Aqui você vai encontrar meus projetos de estudos, onde estou construindo/desenvolvendo as seguintes skills:
-
-Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● Jenkins ● Python ● Golang and more... :)
+Linux ● Docker ● Kubernetes ● AWS ● Ansible ● Terraform ● Jenkins ● Python ● Golang and more... :)
 
 *****
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=tiago-melo)
-
+<div>
+  <a href="http://tiagomelo.eti.br">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiago-melo&theme=gruvbox&show_icons=trueinclude_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-melo&theme=gruvbox&layout=compact&langs_count=7"/>
+</div>
+  
+*****
+  
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/tiagomelosre)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiagomeloeti/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tiagomelo.eti.br/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiagomeloeti/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tiagomelo.eti.br/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/tiagomelo.eti.br)
+*****
+![Snake animation](https://github.com/tiago-melo/tiago-melo/blob/output/github-contribution-grid-snake.svg)
