@@ -1,4 +1,4 @@
-## Olá! eu sou o Tiago Melo, sou entusiasta DevOps. 👋
+## Olá! eu sou o Tiago Melo. 👋
 
 Aqui você vai encontrar meus projetos de estudos e como estou desenvolvendo minhas stacks:
 
