@@ -9,7 +9,7 @@ AWS ● Azure ● GCP ● Linux ● Docker ● Kubernetes ● IaC ● CI/CD ● 
 *****
 
 <div align="center">
-  <a href="http://tiagomelo.eti.br">
+  <a href="http://tiagomelo.codes">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiago-melo&theme=gruvbox&show_icons=trueinclude_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-melo&theme=gruvbox&layout=compact&langs_count=7"/>
 </div>
