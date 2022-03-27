@@ -1,10 +1,14 @@
-## Olá! eu sou o Tiago Melo. 👋🐧 <img align="left" width="230" height="250" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"></a>
+## Hello guys! Greetings!!! I'm Tiago Melo. 👋🐧 <img align="left" width="230" height="250" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"></a>
+- 💻 Software Engineering Student at UNINTER
+- 🧑🏻‍💻 CloudOps Engineer at Valcann
+- 📨 Feel free to give me any feedback or contact me
 
-Iniciei minha transição de carreira para cloud em 2021, onde atualmente trabalho como CloudOps Engineer, onde estou desenvolvendo várias habilidades, aqui vou compartilhar meus projetos de estudos na medida em que estou desenvolvendo minhas stacks.
-
-Atualmente estou aprendendo as seguintes stacks:
+I'm a Software Engineering student and currently working as a CloudOps Engineer.
+I'm always looking to learn something new or do something old in another way. 😅 I'm developing several skills and in this space I will share my study and personal projects...
 
 AWS ● Azure ● GCP ● Linux ● Docker ● Kubernetes ● IaC ● CI/CD ● Python ● Golang and more... :)
+
+
 
 *****
 
