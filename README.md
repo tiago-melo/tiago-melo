@@ -45,6 +45,10 @@ AWS ● Azure ● GCP ● Linux ● Docker ● Kubernetes ● IaC ● CI/CD ● 
                     align="center" alt="AWS Certified Solutions Architect – Associate" height="120" width="120"
                     src="https://images.credly.com/size/3100x3100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
             </a>
+            <a href='https://www.credly.com/badges/7c65e43e-82a0-4ad6-b4a3-a89e1c781579?source=linked_in_profile'><img
+                    align="center" alt="AWS Certified Cloud Practitioner" height="120" width="120"
+                    src="https://images.credly.com/size/3100x3100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+            </a>
             <a href='https://www.credly.com/badges/0b9d5fe1-4c81-4fa0-9ed2-a24a207beaac?source=linked_in_profile'><img
                     align="center" alt="Microsoft Certified Trainer" height="120" width="120"
                     src="https://images.credly.com/size/3100x3100/images/4cda21c8-5a97-4eb1-831f-f4c52cab2125/MCT-Microsoft_Certified_Trainer-600x600.png">
