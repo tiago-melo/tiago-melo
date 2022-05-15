@@ -59,7 +59,7 @@ AWS ● Azure ● GCP ● Linux ● Docker ● Kubernetes ● IaC ● CI/CD ● 
             </a>
             <a href='https://www.credly.com/badges/f4bacd10-5b24-4bd1-a4a8-896096fb4175?source=linked_in_profile'><img
                     align="center" alt="Microsoft Certified: Azure Administrator Associate" height="120" width="120"
-                    src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png">
+                    src="https://images.credly.com/size/3100x3100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png">
             </a>
             <a href='https://www.credly.com/badges/112561009-f389-4ee6-b0d9-c1fa98ef7935?source=linked_in_profile'><img
                     align="center" alt="Microsoft Certified: Azure Fundamentals" height="120" width="120"
