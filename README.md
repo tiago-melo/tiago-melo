@@ -38,31 +38,31 @@ AWS ● Azure ● GCP ● Linux ● Docker ● Kubernetes ● IaC ● CI/CD ● 
     <div class="coluna">
         <div style="display: inline_block"><br>
             <a href='https://cs.lpi.org/caf/Xamman/certification/verify/LPI000254750/meanpuk6hf'><img align="center"
-                    alt="LPIC-1 | Linux Administrator" height="120" width="120"
+                    alt="LPIC-1 | Linux Administrator" height="110" width="110"
                     src="https://linuxsemfronteiras.com.br/wp-content/uploads/2017/07/LPIC-1-Large.png">
             </a>
             <a href='https://www.credly.com/badges/9bd5fab0-2c3a-4b41-b533-3fdb3143d63f?source=linked_in_profile'><img
-                    align="center" alt="AWS Certified Solutions Architect – Associate" height="120" width="120"
+                    align="center" alt="AWS Certified Solutions Architect – Associate" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
             </a>
             <a href='https://www.credly.com/badges/7c65e43e-82a0-4ad6-b4a3-a89e1c781579?source=linked_in_profile'><img
-                    align="center" alt="AWS Certified Cloud Practitioner" height="120" width="120"
+                    align="center" alt="AWS Certified Cloud Practitioner" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
             </a>
             <a href='https://www.credly.com/badges/0b9d5fe1-4c81-4fa0-9ed2-a24a207beaac?source=linked_in_profile'><img
-                    align="center" alt="Microsoft Certified Trainer" height="120" width="120"
+                    align="center" alt="Microsoft Certified Trainer" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/4cda21c8-5a97-4eb1-831f-f4c52cab2125/MCT-Microsoft_Certified_Trainer-600x600.png">
             </a>
             <a href='https://www.credly.com/badges/55f111002-9516-4a2a-8a50-996d5a80fbfe?source=linked_in_profile'><img
-                    align="center" alt="Microsoft Certified: DevOps Engineer Expert" height="120" width="120"
+                    align="center" alt="Microsoft Certified: DevOps Engineer Expert" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png">
             </a>
             <a href='https://www.credly.com/badges/f4bacd10-5b24-4bd1-a4a8-896096fb4175?source=linked_in_profile'><img
-                    align="center" alt="Microsoft Certified: Azure Administrator Associate" height="120" width="120"
+                    align="center" alt="Microsoft Certified: Azure Administrator Associate" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png">
             </a>
             <a href='https://www.credly.com/badges/112561009-f389-4ee6-b0d9-c1fa98ef7935?source=linked_in_profile'><img
-                    align="center" alt="Microsoft Certified: Azure Fundamentals" height="120" width="120"
+                    align="center" alt="Microsoft Certified: Azure Fundamentals" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
             </a>
 
