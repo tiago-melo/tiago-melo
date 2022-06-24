@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - mater
+    - master
 
 jobs:
   generate:
