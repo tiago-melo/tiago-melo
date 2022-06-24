@@ -67,9 +67,7 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"  />
 
 ###
-
-<img href="https://raw.githubusercontent.com/tiago-melo/tiago-melo/blob/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/tiago-melo/tiago-melo/blob/output/github-contribution-grid-snake.svg)
 ###
 
 
