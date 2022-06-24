@@ -51,7 +51,7 @@ AWS ● Azure ● GCP ● Linux ● Docker ● Kubernetes ● IaC ● CI/CD ● 
             </a>
             <a href='https://www.credly.com/badges/0b9d5fe1-4c81-4fa0-9ed2-a24a207beaac?source=linked_in_profile'><img
                     align="center" alt="Microsoft Certified Trainer" height="110" width="110"
-                    src="https://images.credly.com/size/3100x3100/images/4cda21c8-5a97-4eb1-831f-f4c52cab2125/MCT-Microsoft_Certified_Trainer-600x600.png">
+                    src="https://images.credly.com/size/600x600/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png">
             </a>
             <a href='https://www.credly.com/badges/55f111002-9516-4a2a-8a50-996d5a80fbfe?source=linked_in_profile'><img
                     align="center" alt="Microsoft Certified: DevOps Engineer Expert" height="110" width="110"
