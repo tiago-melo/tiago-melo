@@ -1,35 +1,76 @@
-## Hello guys! Greetings!!! I'm Tiago Melo. 👋🐧 <img align="left" width="230" height="250" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"></a>
-- 💻 Software Engineering Student at UNINTER
-- 🧑🏻‍💻 CloudOps Engineer at Valcann
-- 📨 Feel free to give me any feedback or contact me
+<h2 align="left">Hello guys! Greetings!!! I'm Tiago Melo. 👋🐧 <br>- 💻 Software Engineering Student at UNINTER<br>- 🧑🏻‍💻 CloudOps Engineer at Valcann<br>- 📨 Feel free to give me any feedback or contact me<br><br>I'm a Software Engineering student and currently working as a CloudOps Engineer.<br>I'm always looking to learn something new or do something old in another way. 😅 I'm developing several skills and in this space I will share my study and personal projects...</h2>
 
-I'm a Software Engineering student and currently working as a CloudOps Engineer.
-I'm always looking to learn something new or do something old in another way. 😅 I'm developing several skills and in this space I will share my study and personal projects...
+###
 
-AWS ● Azure ● GCP ● Linux ● Docker ● Kubernetes ● IaC ● CI/CD ● Python ● Golang and more... :)
+<div align="left">
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" width="42" alt="amazonwebservices logo"  />
+  <img src="https://www.svgrepo.com/show/353464/azure.svg" height="30" width="42" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" width="42" alt="docker logo"  />
+  <img src="https://www.svgrepo.com/show/353983/kubernetes.svg" height="30" width="42" alt="kubernetes logo"  />
+  <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="30" width="42" alt="terraform logo"  />
+</div>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="30" width="42" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" width="42" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="42" alt="mysql logo"  />
+</div>
 
 *****
 
 <div style = "text-align: center">
-  <a href="http://tiagomelo.codes">
+  <a href="https://tiagomelo.codes">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiago-melo&theme=gruvbox&show_icons=trueinclude_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-melo&theme=gruvbox&layout=compact&langs_count=7"/>
 </div>
 
 *****
-  
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/tiago-melo)
-[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/tiago.melo)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/tiagomelocodes)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiagomelocodes/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tiagomelo.codes/) 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/tiagomelo.codes)
-  
-*****
-![Snake animation](https://github.com/tiago-melo/tiago-melo/blob/output/github-contribution-grid-snake.svg)
-*****
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tiagomelocodes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/tiagomelocodes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/tiagomelo.codes#8920" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="contact@tiagomelo.codes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://dev.to/tiagomelo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="47" height="35" alt="devto logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
+  <a href="https://twitter.com/tiagomelocodes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"  />
+
+###
+
+<img href="https://raw.githubusercontent.com/tiago-melo/tiago-melo/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <b>Certifications</b>
@@ -65,5 +106,6 @@ AWS ● Azure ● GCP ● Linux ● Docker ● Kubernetes ● IaC ● CI/CD ● 
                     align="center" alt="Microsoft Certified: Azure Fundamentals" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
             </a>
-
 </div>
+
+
