@@ -1,6 +1,7 @@
+<img align="right" height="240" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"  />
 <h2 align="left">Hello guys! Greetings!!! I'm Tiago Melo. 👋🐧 <br>- 💻 Software Engineering Student at UNINTER<br>- 🧑🏻‍💻 CloudOps Engineer at Valcann<br>- 📨 Feel free to give me any feedback or contact me<br><br>I'm a Software Engineering student and currently working as a CloudOps Engineer.<br>I'm always looking to learn something new or do something old in another way. 😅 I'm developing several skills and in this space I will share my study and personal projects...</h2>
 
-###
+
 
 <div align="left">
   <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" width="42" alt="amazonwebservices logo"  />
@@ -38,8 +39,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-melo&theme=gruvbox&layout=compact&langs_count=7"/>
 </div>
 
-*****
-
 <div align="left">
   <a href="https://www.linkedin.com/in/tiagomelocodes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
@@ -60,16 +59,16 @@
   <a href="https://twitter.com/tiagomelocodes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
+  <img src="https://profile-counter.glitch.me/tiago-melo/count.svg?"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"  />
-
-###
+  
+****
+  
 ![Snake animation](https://github.com/tiago-melo/tiago-melo/blob/output/github-contribution-grid-snake.svg)
-###
 
+****
 
 <b>Certifications</b>
 
