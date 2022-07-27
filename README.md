@@ -7,16 +7,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://dev.to/tiagomelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tiagomelo" height="30" width="40" /></a>
-<a href="https://twitter.com/tiagomelocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiagomelocodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tiagomelocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagomelocodes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18375134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18375134" height="30" width="40" /></a>
-<a href="https://instagram.com/tiagomelo.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagomelo.codes" height="30" width="40" /></a>
-<a href="contact@tiagomelo.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="contact@tiagomelo.codes" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/tiagomelo.codes#8920" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="tiagomelo.codes" height="30" width="40" /></a>
-
   
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -56,7 +46,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiago-melo&theme=gruvbox&show_icons=trueinclude_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-melo&theme=gruvbox&layout=compact&langs_count=7"/>
 </div>
-  
+
+
+
 ****
   
 ![Snake animation](https://github.com/tiago-melo/tiago-melo/blob/output/github-contribution-grid-snake.svg)
@@ -102,4 +94,14 @@
             </a>
 </div>
 
+###
+<b>&nbsp;**Connect with me**</b>
 
+<p align="left">
+<a href="https://dev.to/tiagomelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tiagomelo" height="30" width="40" /></a>
+<a href="https://twitter.com/tiagomelocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiagomelocodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tiagomelocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagomelocodes" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18375134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18375134" height="30" width="40" /></a>
+<a href="https://instagram.com/tiagomelo.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagomelo.codes" height="30" width="40" /></a>
+<a href="contact@tiagomelo.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="contact@tiagomelo.codes" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/tiagomelo.codes#8920" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="tiagomelo.codes" height="30" width="40" /></a>
