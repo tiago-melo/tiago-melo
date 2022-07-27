@@ -103,6 +103,10 @@
                     align="center" alt="Microsoft Certified: Azure Fundamentals" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
             </a>
+            <a href='https://www.credly.com/badges/6530558c-c280-4c52-bd33-c7c2e1be910e?source=linked_in_profile'><img
+                    align="center" alt="GitLab Certified Git Associate" height="110" width="110"
+                    src="https://images.credly.com/size/3100x3100/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png">
+            </a>
 </div>
 
 
