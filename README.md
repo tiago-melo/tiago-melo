@@ -57,10 +57,6 @@
 <div class="row">
     <div class="coluna">
         <div style="display: flex"><br>
-            <a href='https://cs.lpi.org/caf/Xamman/certification/verify/LPI000254750/meanpuk6hf'><img align="center"
-                    alt="LPIC-1 | Linux Administrator" height="110" width="110"
-                    src="https://linuxsemfronteiras.com.br/wp-content/uploads/2017/07/LPIC-1-Large.png">
-            </a>
             <a href='https://www.credly.com/badges/9bd5fab0-2c3a-4b41-b533-3fdb3143d63f?source=linked_in_profile'><img
                     align="center" alt="AWS Certified Solutions Architect – Associate" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
@@ -72,10 +68,6 @@
             <a href='https://www.credly.com/badges/7c65e43e-82a0-4ad6-b4a3-a89e1c781579?source=linked_in_profile'><img
                     align="center" alt="AWS Certified Cloud Practitioner" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
-            </a>
-            <a href='https://www.credly.com/badges/0b9d5fe1-4c81-4fa0-9ed2-a24a207beaac?source=linked_in_profile'><img
-                    align="center" alt="Microsoft Certified Trainer" height="110" width="110"
-                    src="https://images.credly.com/size/600x600/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png">
             </a>
             <a href='https://www.credly.com/badges/55f111002-9516-4a2a-8a50-996d5a80fbfe?source=linked_in_profile'><img
                     align="center" alt="Microsoft Certified: DevOps Engineer Expert" height="110" width="110"
@@ -89,10 +81,19 @@
                     align="center" alt="Microsoft Certified: Azure Fundamentals" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
             </a>
-            <a href='https://www.credly.com/badges/6530558c-c280-4c52-bd33-c7c2e1be910e?source=linked_in_profile'><img
+            <a href='https://www.credly.com/badges/0b9d5fe1-4c81-4fa0-9ed2-a24a207beaac?source=linked_in_profile'><img
+                    align="center" alt="Microsoft Certified Trainer" height="110" width="110"
+                    src="https://images.credly.com/size/600x600/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png">
+            </a>
+            <a href='https://cs.lpi.org/caf/Xamman/certification/verify/LPI000254750/meanpuk6hf'><img align="center"
+                    alt="LPIC-1 | Linux Administrator" height="110" width="110"
+                    src="https://linuxsemfronteiras.com.br/wp-content/uploads/2017/07/LPIC-1-Large.png">
+            </a>
+          <a href='https://www.credly.com/badges/6530558c-c280-4c52-bd33-c7c2e1be910e?source=linked_in_profile'><img
                     align="center" alt="GitLab Certified Git Associate" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png">
             </a>
+
 </div>
 
 ###
