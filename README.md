@@ -2,10 +2,7 @@
 <h5 align="left">Hello guys! Greetings!!! I'm Tiago Melo. 👋🐧 <br>- 💻 Software Engineering Student at UNINTER<br>- 🧑🏻‍💻 CloudOps Engineer at Valcann<br>- 📨 Feel free to give me any feedback or contact me<br><br>I'm a Software Engineering student and currently working as a CloudOps Engineer.<br>I'm always looking to learn something new or do something old in another way. 😅 I'm developing several skills and in this space I will share my study and personal projects...</h2>
 
 
-#📕 &nbsp;**Latest Posts**
-
-#<!-- BLOG-POST-LIST:START -->
-#<!-- BLOG-POST-LIST:END -->
+📕 &nbsp;**Latest Posts**
 
   
 <details>
