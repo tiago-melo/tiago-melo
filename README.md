@@ -1,5 +1,15 @@
-<img align="right" height="240" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"  />
-<h5 align="left">Hello guys! Greetings!!! I'm Tiago Melo. 👋🐧 <br>- 💻 Software Engineering Student at UNINTER<br>- 🧑🏻‍💻 CloudOps Engineer at Valcann<br> <br>I'm a Software Engineering student and currently working as a CloudOps Engineer.<br>I'm always looking to learn something new or do something old in another way. 😅 I'm developing several skills and in this space I will share my study and personal projects...</h2>
+<img align="right" height="240" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"/>
+<align="left">Olá! Sou Tiago Melo, um entusiasta em tecnologia com uma paixão ardente por tudo que é relacionado à engenharia de software e operações na nuvem. Atualmente, estou aprofundando meus conhecimentos como estudante de Engenharia de Software na UNINTER. Mas a teoria, para mim, é apenas metade da batalha. Eu aplico o que aprendo no mundo real, trabalhando como Cloud Operations Engineer na Valcann, onde uso as principais ferramentas e plataformas do setor.
+
+A tecnologia nunca é estática, e é por isso que adoto uma abordagem de aprendizado contínuo. Seja explorando novas linguagens de programação, aprimorando minhas habilidades em plataformas como AWS, Azure, ou até mesmo mergulhando no desenvolvimento. Eu acredito que sempre há uma maneira diferente e possivelmente mais eficiente de fazer as coisas.
+
+Além da minha paixão por tecnologia, valorizo a partilha de conhecimento. Por isso, criei um espaço onde compartilho meus projetos de estudo e pessoais. Isso não só me ajuda a documentar minha jornada, mas também a inspirar e educar outros que podem estar seguindo um caminho semelhante.
+
+Minhas certificações, são testemunhos de meu compromisso em estar no topo do meu jogo. Ainda assim, para mim, as verdadeiras recompensas vêm das conexões que faço e das soluções inovadoras que crio.
+
+Se quiser se conectar, aprender juntos ou apenas ter uma conversa fascinante sobre tecnologia, estou sempre disponível. Você pode me encontrar no Dev.to, Twitter, LinkedIn, e até mesmo no Instagram onde, entre outras coisas, destaco minhas aventuras no mundo da tecnologia.
+
+Obrigado por passar por aqui, e espero que possamos cruzar nossos caminhos no vasto mundo da tecnologia!
 
 
 📕 &nbsp;**Latest Posts**
@@ -40,8 +50,9 @@
 
 <div style = "text-align: center">
   <a href="https://tiagomelo.codes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiago-melo&theme=gruvbox&show_icons=trueinclude_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-melo&theme=gruvbox&layout=compact&langs_count=7"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiago-melo&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiago-melo&theme=onedark&hide_border=false"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-melo&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 
@@ -57,6 +68,10 @@
 <div class="row">
     <div class="coluna">
         <div style="display: flex"><br>
+            <a href='https://www.credly.com/badges/4d5f7f78-f32e-437e-aa2c-a94bc69d6913'><img
+                    align="center" alt="AWS Certified Solutions Architect – Associate" height="110" width="110"
+                    src="https://images.credly.com/size/600x600/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png">
+            </a>
             <a href='https://www.credly.com/badges/9bd5fab0-2c3a-4b41-b533-3fdb3143d63f?source=linked_in_profile'><img
                     align="center" alt="AWS Certified Solutions Architect – Associate" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
