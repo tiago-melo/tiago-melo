@@ -52,18 +52,10 @@ Obrigado por passar por aqui, e espero que possamos cruzar nossos caminhos no va
   <a href="https://tiagomelo.codes">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiago-melo&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiago-melo&theme=onedark&hide_border=false"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-melo&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <!--img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-melo&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"-->
 </div>
 
-
-
-****
-  
-![Snake animation](https://github.com/tiago-melo/tiago-melo/blob/output/github-contribution-grid-snake.svg)
-
-****
-
-<b>Certifications</b>
+<b>🏆️ Certifications</b> 
 
 <div class="row">
     <div class="coluna">
@@ -112,7 +104,16 @@ Obrigado por passar por aqui, e espero que possamos cruzar nossos caminhos no va
 </div>
 
 ###
-<b>&nbsp;**Connect with me**</b>
+<b> 🗓️ Contributions</b>
+
+****
+  
+![Snake animation](https://github.com/tiago-melo/tiago-melo/blob/output/github-contribution-grid-snake.svg)
+
+****
+
+###
+<b> 💻️ &nbsp;**Connect with me**</b>
 
 <p align="left">
 <a href="https://dev.to/tiagomelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tiagomelo" height="30" width="40" /></a>
