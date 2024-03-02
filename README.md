@@ -1,16 +1,5 @@
 <img align="right" height="240" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"/>
-<align="left">Olá! Sou Tiago Melo, um entusiasta em tecnologia com uma paixão ardente por tudo que é relacionado à engenharia de software e operações na nuvem. Atualmente, estou aprofundando meus conhecimentos como estudante de Engenharia de Software na UNINTER. Mas a teoria, para mim, é apenas metade da batalha. Eu aplico o que aprendo no mundo real, trabalhando como Cloud Operations Engineer na Valcann, onde uso as principais ferramentas e plataformas do setor.
-
-A tecnologia nunca é estática, e é por isso que adoto uma abordagem de aprendizado contínuo. Seja explorando novas linguagens de programação, aprimorando minhas habilidades em plataformas como AWS, Azure, ou até mesmo mergulhando no desenvolvimento. Eu acredito que sempre há uma maneira diferente e possivelmente mais eficiente de fazer as coisas.
-
-Além da minha paixão por tecnologia, valorizo a partilha de conhecimento. Por isso, criei um espaço onde compartilho meus projetos de estudo e pessoais. Isso não só me ajuda a documentar minha jornada, mas também a inspirar e educar outros que podem estar seguindo um caminho semelhante.
-
-Minhas certificações, são testemunhos de meu compromisso em estar no topo do meu jogo. Ainda assim, para mim, as verdadeiras recompensas vêm das conexões que faço e das soluções inovadoras que crio.
-
-Se quiser se conectar, aprender juntos ou apenas ter uma conversa fascinante sobre tecnologia, estou sempre disponível. Você pode me encontrar no Dev.to, Twitter, LinkedIn, e até mesmo no Instagram onde, entre outras coisas, destaco minhas aventuras no mundo da tecnologia.
-
-Obrigado por passar por aqui, e espero que possamos cruzar nossos caminhos no vasto mundo da tecnologia!
-
+<align="left">Olá! Eu sou o Tiago Melo, entusiasta da tecnologia. Atualmente aprimorando habilidades em Engenharia de Software na UNINTER e trabalhando como Cloud Operations Engineer na Valcann. Sou apaixonado por aprender e inovar em tecnologia. Compartilho meu progresso e ideias online. Vamos nos conectar e crescer juntos no mundo tecnológico!
 
 📕 &nbsp;**Latest Posts**
 
