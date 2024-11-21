@@ -87,7 +87,7 @@
             </a>
           <a href='https://www.credly.com/badges/6530558c-c280-4c52-bd33-c7c2e1be910e?source=linked_in_profile'><img
                     align="center" alt="GitLab Certified Git Associate" height="110" width="110"
-                    src="https://images.credly.com/size/3100x3100/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png">
+                    src="https://images.credly.com/size/3100x3100/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png">
             </a>
 
 </div>
