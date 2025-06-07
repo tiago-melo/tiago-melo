@@ -19,8 +19,8 @@ Publicações em **português**, com versões em **inglês** e **espanhol**.
 
 - 🚀 Fundador do blog [**tiagomelo.codes**](https://tiagomelo.codes)
 - 📣 Contribuinte ativo da comunidade [AWS Builders](https://aws.amazon.com/developer/community/community-builders/)
-- 🧠 Mentor de boas práticas DevOps, IaC e Observabilidade
-- 🎓 MCT, AWS Certified, Microsoft Certified e LPIC-1
+- 🧠 Entusiasta de boas práticas DevOps, CloudOps, IaC e Observabilidade
+- 🎓 AWS Certified, Microsoft Certified e LPIC-1
 
 ## Ferramentas e Tecnologias
 
