@@ -1,6 +1,7 @@
-<img align="right" height="240" src="https://user-images.githubusercontent.com/75096588/153781354-062c209b-55cf-4bbd-95ee-dc96a406736f.png"/>
+
 
 # 👨‍💻 Tiago Melo | Cloud Operations Engineer
+<img align="right" height="240" src="https://avatars.githubusercontent.com/u/75096588?v=4"/>
 
 Sou engenheiro de computação em nuvem especializado em ambientes de alta criticidade, onde *performance*, *segurança*, *automção* e *eficiência de custos* são inegociáveis. Atuo com AWS, Azure, Terraform, observabilidade e monitoramento de infraestrutura em escala, apoiando empresas na construção de fundacões cloud resilientes e governadas.
 
