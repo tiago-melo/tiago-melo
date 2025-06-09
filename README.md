@@ -59,21 +59,27 @@ Publicações em **português**, com versões em **inglês** e **espanhol**.
 
 ## Certificações
 
-**Certificações AWS:**
-- [Solutions Architect Associate](https://www.credly.com/badges/4d5f7f78-f32e-437e-aa2c-a94bc69d6913)
-- [Solutions Architect Professional](https://www.credly.com/badges/9bd5fab0-2c3a-4b41-b533-3fdb3143d63f)
-- [Developer Associate](https://www.credly.com/badges/baf3a05b-6456-43ac-8907-eb0a38535e48)
-- [Cloud Practitioner](https://www.credly.com/badges/7c65e43e-82a0-4ad6-b4a3-a89e1c781579)
+### AWS
+<div align="left">
+  <a href='https://www.credly.com/badges/9bd5fab0-2c3a-4b41-b533-3fdb3143d63f'><img height="90" src="https://images.credly.com/size/3100x3100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Solutions Architect – Professional"/></a>
+  <a href='https://www.credly.com/badges/4d5f7f78-f32e-437e-aa2c-a94bc69d6913'><img height="90" src="https://images.credly.com/size/600x600/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="Solutions Architect – Associate"/></a>
+  <a href='https://www.credly.com/badges/baf3a05b-6456-43ac-8907-eb0a38535e48'><img height="90" src="https://images.credly.com/size/3100x3100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="Developer – Associate"/></a>
+  <a href='https://www.credly.com/badges/7c65e43e-82a0-4ad6-b4a3-a89e1c781579'><img height="90" src="https://images.credly.com/size/3100x3100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Cloud Practitioner"/></a>
+</div>
 
-**Certificações Microsoft:**
-- [DevOps Engineer Expert](https://www.credly.com/badges/55f111002-9516-4a2a-8a50-996d5a80fbfe)
-- [Azure Administrator Associate](https://www.credly.com/badges/f4bacd10-5b24-4bd1-a4a8-896096fb4175)
-- [Azure Fundamentals](https://www.credly.com/badges/112561009-f389-4ee6-b0d9-c1fa98ef7935)
-- [Microsoft Certified Trainer](https://www.credly.com/badges/0b9d5fe1-4c81-4fa0-9ed2-a24a207beaac)
+### Microsoft
+<div align="left">
+  <a href='https://www.credly.com/badges/55f111002-9516-4a2a-8a50-996d5a80fbfe'><img height="90" src="https://images.credly.com/size/3100x3100/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="DevOps Engineer Expert"/></a>
+  <a href='https://www.credly.com/badges/f4bacd10-5b24-4bd1-a4a8-896096fb4175'><img height="90" src="https://images.credly.com/size/3100x3100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate"/></a>
+  <a href='https://www.credly.com/badges/112561009-f389-4ee6-b0d9-c1fa98ef7935'><img height="90" src="https://images.credly.com/size/3100x3100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals"/></a>
+  <a href='https://www.credly.com/badges/0b9d5fe1-4c81-4fa0-9ed2-a24a207beaac'><img height="90" src="https://images.credly.com/size/600x600/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png" alt="Microsoft Certified Trainer"/></a>
+</div>
 
-**Outras Certificações:**
-- [LPIC-1 | Linux Administrator](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000254750/meanpuk6hf)
-- [GitLab Certified Git Associate](https://www.credly.com/badges/6530558c-c280-4c52-bd33-c7c2e1be910e)
+### Outras
+<div align="left">
+  <a href='https://cs.lpi.org/caf/Xamman/certification/verify/LPI000254750/meanpuk6hf'><img height="90" src="https://linuxsemfronteiras.com.br/wp-content/uploads/2017/07/LPIC-1-Large.png" alt="LPIC-1"/></a>
+  <a href='https://www.credly.com/badges/6530558c-c280-4c52-bd33-c7c2e1be910e'><img height="90" src="https://images.credly.com/size/3100x3100/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png" alt="GitLab Git Associate"/></a>
+</div>
 
 ## GitHub Stats
 
@@ -94,15 +100,14 @@ Publicações em **português**, com versões em **inglês** e **espanhol**.
 
 ## Conecte-se comigo
 
-<p align="left">
-  <a href="https://dev.to/tiagomelo" title="Dev.to"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="40" alt="dev.to" /></a>
-  <a href="https://twitter.com/tiagomelocodes" title="Twitter"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="twitter" /></a>
-  <a href="https://linkedin.com/in/tiagomelocodes" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" /></a>
-  <a href="https://stackoverflow.com/users/18375134" title="Stack Overflow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" alt="stackoverflow" /></a>
-  <a href="https://instagram.com/tiagomelo.codes" title="Instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="instagram" /></a>
-  <a href="mailto:contact@tiagomelo.codes" title="Email"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" width="40" alt="email" /></a>
-  <a href="https://discordapp.com/users/tiagomelo.codes#8920" title="Discord"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" width="40" alt="discord" /></a>
-</p>
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/internet/default.svg" width="20"/> [tiagomelo.codes](https://tiagomelo.codes)  
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="20"/> [Medium](https://tiagomelo.cloud)  
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/> [LinkedIn](https://linkedin.com/in/tiagomelocodes)  
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="20"/> [Instagram](https://instagram.com/tiagomelo.codes)  
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="20"/> [X (Twitter)](https://x.com/tiagomelocodes)  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="20"/> [Dev.to](https://dev.to/tiagomelo)  
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="20"/> [YouTube](https://www.youtube.com/@tiagomelocodes)  
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20"/> [contact@tiagomelo.codes](mailto:contact@tiagomelo.codes)  
 
 ---
 
