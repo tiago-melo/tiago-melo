@@ -100,14 +100,49 @@ Publicações em **português**, com versões em **inglês** e **espanhol**.
 
 ## Conecte-se comigo
 
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/internet/default.svg" width="20"/> [tiagomelo.codes](https://tiagomelo.codes)  
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="20"/> [Medium](https://tiagomelo.cloud)  
-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/> [LinkedIn](https://linkedin.com/in/tiagomelocodes)  
-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="20"/> [Instagram](https://instagram.com/tiagomelo.codes)  
-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="20"/> [X (Twitter)](https://x.com/tiagomelocodes)  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="20"/> [Dev.to](https://dev.to/tiagomelo)  
-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="20"/> [YouTube](https://www.youtube.com/@tiagomelocodes)  
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20"/> [contact@tiagomelo.codes](mailto:contact@tiagomelo.codes)  
+<div align="center" style="display:grid;grid-template-columns:repeat(2,auto);gap:4px;justify-content:center;">
+
+  <!-- Blog -->
+  <a href="https://tiagomelo.codes" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-TIAGOMELO.CODES-051d40?style=for-the-badge&logo=githubpages&logoColor=F39C12&labelColor=051d40&color=051d40" alt="Blog"/>
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@tiagomelocodes" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-@TIAGOMELOCODES-051d40?style=for-the-badge&logo=medium&logoColor=F39C12&labelColor=051d40&color=051d40" alt="Medium"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/tiagomelo.codes" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@TIAGOMELO.CODES-051d40?style=for-the-badge&logo=instagram&logoColor=F39C12&labelColor=051d40&color=051d40" alt="Instagram"/>
+  </a>
+
+  <!-- X -->
+  <a href="https://x.com/tiagomelocodes" target="_blank">
+    <img src="https://img.shields.io/badge/X-@TIAGOMELOCODES-051d40?style=for-the-badge&logo=x&logoColor=F39C12&labelColor=051d40&color=051d40" alt="X"/>
+  </a>
+
+  <!-- Dev.to -->
+  <a href="https://dev.to/tiagomelocodes" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-TIAGOMELOCODES-051d40?style=for-the-badge&logo=devdotto&logoColor=F39C12&labelColor=051d40&color=051d40" alt="Dev.to"/>
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/@tiagomelocodes" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@TIAGOMELOCODES-051d40?style=for-the-badge&logo=youtube&logoColor=F39C12&labelColor=051d40&color=051d40" alt="YouTube"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:contact@tiagomelo.codes">
+    <img src="https://img.shields.io/badge/Email-CONTACT@TIAGOMELO.CODES-051d40?style=for-the-badge&logo=gmail&logoColor=F39C12&labelColor=051d40&color=051d40" alt="Email"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/tiagomelocodes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-@TIAGOMELOCODES-051d40?style=for-the-badge&logo=linkedin&logoColor=F39C12&labelColor=051d40&color=051d40" alt="LinkedIn"/>
+  </a>
+
+</div>
 
 ---
 
